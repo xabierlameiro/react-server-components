@@ -17,7 +17,7 @@
     "excerpts": "^0.0.3",
     "express": "^4.22.1",
     "html-webpack-plugin": "4.5.0",
-    "marked": "^1.2.5",
+    "marked": "^4.0.10",
     "nodemon": "^2.0.22",
     "react": "0.0.0-experimental-3310209d0",
     "react-dom": "0.0.0-experimental-3310209d0",
